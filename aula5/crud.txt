@@ -1,0 +1,34 @@
+
+O que é crud:
+
+Create
+Read
+Update
+Delete
+
+API - Application Programming Interface
+-> considere como se fosse o garçom ***
+
+---------------------------------------------
+web service
+request/ transaction - wsdl soap
+xml
+crud era dificil
+
+---------------------------------------------
+
+rest api
+request/ transaction - http
+text, json, csv
+crud mais facil
+
+crud x rest http
+create - post
+read - get
+update - put (patch)
+delete - delete
+https status 
+
+
+
+

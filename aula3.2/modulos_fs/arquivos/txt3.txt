@@ -1,0 +1,2 @@
+O arquivo 3 tem dos dados do 1 e do 2: Arquivo 1 é maior
+Arquivo2
