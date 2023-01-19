@@ -1,0 +1,13 @@
+-- iniciar o projeto node
+npm init -y ou npm init
+
+-- instalar o jest
+npm i jest -D
+
+-- iniciar o jest
+npx jest --init
+
+*** se atentar as configuraçoes de acordo com o projeto (typescript, modo node, report coverage, etc)
+
+-- configurar o package.json
+script:    "test": "jest"

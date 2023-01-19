@@ -11,7 +11,7 @@ const schemaTeste = buildSchema(
 
 const resolver = {
     hello: () => "Hello somebody",
-    helloWithParamams: ({nome}) => `Hello ${nome}` 
+    helloWithParamams: ({nome, idade, telefone, ...}) => `Hello ${nome}` 
 }
 
 const app = express()
